@@ -2,7 +2,7 @@
 ## Panduan Penggunaan Model Prediksi Mahasiswa
 
 1. **Unduh Model**:
-   - Klik pada tautan berikut untuk mengunduh model: [best_random_forest_model.pkl].
+   - Klik pada tautan berikut untuk mengunduh model: [best_random_forest_model.zip], kemudian extract
 
 2. **Penggunaan di Python**:
    - Langkah-langkah untuk menggunakan model dalam Python:
